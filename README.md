@@ -1,17 +1,25 @@
-# wildlife
+Wildlife
 
-A new Flutter project.
+Wildlife is a mobile application built with Flutter and Supabase for capturing and reporting wildlife sightings in your surroundings. The platform empowers individuals to contribute to biodiversity monitoring, conservation efforts, and environmental awareness by documenting local wildlife in real-time.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+📸 Capture Wildlife Sightings – Take photos and log details of animals in your area.
 
-A few resources to get you started if this is your first Flutter project:
+📍 Location Tracking – Automatically record GPS coordinates of sightings.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🗂️ Wildlife Records – Store and view past sightings in a clean dashboard.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# wildlife
+🌍 Community Contributions – Build a collective database of wildlife reports.
+
+🔐 Authentication & Security – Supabase-powered authentication and secure data storage.
+
+📱 Cross-Platform Mobile App – Developed with Flutter/Dart for smooth performance.
+
+🛠️ Tech Stack
+
+Mobile App: Flutter (Dart)
+
+Backend & Database: Supabase (PostgreSQL, Authentication, APIs)
+
+Deployment: Pending mobile release (Play Store / App Store)
